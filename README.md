@@ -1,7 +1,7 @@
 lweb-init
 =======
 
-[![npm](https://img.shields.io/npm/v/:package.svg?style=flat-square)](https://www.npmjs.com/package/lweb-init)
+[![npm](https://img.shields.io/npm/v/lweb-init.svg?style=flat-square)](https://npmjs.org/package/lweb-init)
 
 Init lilith game internal web app helper tools
 

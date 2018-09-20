@@ -1,3 +1,10 @@
+1.0.4 / 2018-09-20
+==================
+
+* add package param
+* change template syntax to {{- name -}}
+* add more internal boilerplates
+
 1.0.3 / 2018-09-19
 ==================
 

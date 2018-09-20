@@ -29,12 +29,13 @@ lweb-init
 init lilith web project from boilerplate.
 Usage: lweb-init [dir] --type=egg-backend
 
-Options:
-  --type       boilerplate type                                         [string]
-  --dir        target directory                                         [string]
-  --force, -f  force to override directory                             [boolean]
-  --version    Show version number                                     [boolean]
-  -h, --help   Show help                                               [boolean]
+Options：
+  --type         boilerplate type                           [string]
+  --dir          target directory                           [string]
+  --package, -p  gitlab package name                       [boolean]
+  --force, -f    force to override directory               [boolean]
+  --version      Show version number                       [boolean]
+  -h, --help     Show help                                 [boolean]
 ```
 
 ## Create a boilerplate

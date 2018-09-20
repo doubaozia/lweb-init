@@ -34,9 +34,17 @@
   },
   "config": {
     "boilerplate": {
+      "koa-backend": {
+        "package": "koa-backend",
+        "description": "Web backend boilerplate based on koa.js"
+      },
       "egg-backend": {
         "package": "egg-backend",
-        "description": "Simple lilith web backend boilerplate"
+        "description": "Web backend boilerplate based on egg.js"
+      },
+      "antd-frontend": {
+        "package": "lilith-antd-pro",
+        "description": "Web frontend boilerplate based on antd-pro"
       }
     },
     "gitlab": {

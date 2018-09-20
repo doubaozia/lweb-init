@@ -1,6 +1,6 @@
 {
   "name": "lweb-init",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Init lilith internal app helper tools.",
   "main": "lib/init_command.js",
   "scripts": {

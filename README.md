@@ -20,7 +20,9 @@ lweb-init
 ```bash
 ? Please select a boilerplate type (Use arrow keys)
   ──────────────
-❯ egg-backend - Simple lilith web backend boilerplate
+❯ koa-backend - Web backend boilerplate based on koa.js 
+  egg-backend - Web backend boilerplate based on egg.js 
+  antd-frontend - Web frontend boilerplate based on antd-pro
 ```
 
 ## Usage
@@ -66,4 +68,4 @@ module.exports = {
 };
 ```
 
-In your template files, use `{{name}}` to inject.
+In your template files, use `{{-name-}}` to inject.

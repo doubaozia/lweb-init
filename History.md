@@ -1,7 +1,13 @@
+1.0.7 / 2018-10-24
+==================
+
+* add antd-simple boilerplate
+* add egg-simple boilerplate
+
 1.0.6 / 2018-09-24
 ==================
 
-*change readme
+* change readme
 
 1.0.5 / 2018-09-20
 ==================

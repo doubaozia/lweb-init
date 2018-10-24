@@ -20,7 +20,9 @@ lweb-init
 ```bash
 ? Please select a boilerplate type (Use arrow keys)
   ──────────────
-❯ koa-backend - Web backend boilerplate based on koa.js 
+❯ antd-simple - Simple front boilerplate based on antd, umi and dva
+  egg-simple - Static web and file server based on egg.js
+  koa-backend - Web backend boilerplate based on koa.js 
   egg-backend - Web backend boilerplate based on egg.js 
   antd-frontend - Web frontend boilerplate based on antd-pro
 ```

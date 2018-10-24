@@ -34,6 +34,14 @@
   },
   "config": {
     "boilerplate": {
+      "antd-simple": {
+        "package": "antd-simple",
+        "description": "Simple front boilerplate based on antd, umi and dva"
+      },
+      "egg-simple": {
+        "package": "egg-simple",
+        "description": "Static web and file server based on egg.js"
+      },
       "koa-backend": {
         "package": "koa-backend",
         "description": "Web backend boilerplate based on koa.js"
